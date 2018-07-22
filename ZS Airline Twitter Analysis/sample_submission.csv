@@ -1,0 +1,10 @@
+tweet_id,airline_sentiment
+Test_tweet_1,neutral
+Test_tweet_2,neutral
+Test_tweet_3,positive
+Test_tweet_4,neutral
+Test_tweet_5,positive
+Test_tweet_6,neutral
+Test_tweet_7,negative
+Test_tweet_8,negative
+Test_tweet_9,negative
